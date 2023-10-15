@@ -1,0 +1,36 @@
+/*Link CSS  with HTML: External file Css */
+h1 {
+	/* color:violet; */
+	font-family: roboto;
+	text-align: center;
+  font-size: 200;color: antiquewhite;
+  
+
+}
+nav ul {
+  ul {
+    list-style-type: circle;
+    list-style-image: url('custom-bullet.png');
+    list-style-position: inside;
+  }
+  
+  }
+  
+  nav li {
+    display: inline; /* Afficher les éléments de la liste en ligne */
+    margin-right: 100px; /* Espacement entre les éléments */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #7dd3d6; /* Couleur du texte des liens */
+  }
+  
+ul{
+    color: rgb(15, 15, 15);font-style: calc();
+}
+
+ul
+
+
+h3 {background-color: blacks;}
